@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"name": "Granny1",
+			"path": "."
+		},
+		{
+			"name": "UE4",
+			"path": "C:\\Program Files (x86)\\Epic Games\\UE_4.26"
+		}
+	],
+	"settings": {
+		"typescript.tsc.autoDetect": "off",
+		"C_Cpp.default.forcedInclude": [
+			"${default}",
+			"D:\\C++ TRAINING\\1. OWN PROJECTS\\Granny1\\Intermediate\\Build\\Win64\\UE4Editor\\Development\\Granny1\\Definitions.Granny1.h",
+			"D:\\C++ TRAINING\\1. OWN PROJECTS\\Granny1\\Intermediate\\Build\\Win64\\Granny1Editor\\Development\\Engine\\SharedPCH.Engine.ShadowErrors.h"
+		]
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-vscode.cpptools",
+			"ms-dotnettools.csharp"
+		]
+	}
+}
